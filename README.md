@@ -3,8 +3,7 @@
 基于 Unity URP 制作的海滩环境效果原型。项目围绕干湿沙滩过渡、近远海水层次、顶点海浪、岸边泡沫与海浪飞沫展开，练习 Shader Graph、VFX Graph 和场景光照氛围的组合表现。
 
 > **引擎版本：** Unity 6.3 LTS  
-> **渲染管线：** URP  
-> **核心工具：** Shader Graph、VFX Graph  
+> **渲染管线：** URP 3D  
 > **开发语言：** C#
 
 ## 演示视频
